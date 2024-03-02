@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643385977347",
+    "project_id": "onthithpt-f1a9d",
+    "storage_bucket": "onthithpt-f1a9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643385977347:android:5a9d07046025bc5a45fc36",
+        "android_client_info": {
+          "package_name": "com.example.on_thi_thpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYP4CoQ2k7s0uKqzUB1nNeZhWPAHaV4kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
